@@ -25,10 +25,15 @@
 + A simple DApp can buy NFT on OpenSea and get goods in Nigeria system be built up.
 + Figure：
 + 
-### Contract
-### DApp
-### scaffold with OpenSea
-### NFT design and publish
-### SupplyChain: purchase and logistics and stock and delivery
-### Tokenomics
-### Community and operation
+### 1.Contract @Jason
+### 2.DApp @ Karl Dane Jason 
+### 3.scaffold with OpenSea @Jason
+### 4.NFT design and publish @Dane @Karl @Lizzy
+### 5.SupplyChain: purchase and logistics and stock and delivery @ Emen Karl Jason
+
+### 6.Tokenomics(Mobile or Clothed or NFTs) @Lizzy Jason @Emen @all
+NFT means what? VIP card ? a real goods binding with a NFT?
+or ??
+### 7.Community and operation(Crypto communities) @Lizzy @ Emen @all
+
+Optimism, Low gas (BSC is first )
